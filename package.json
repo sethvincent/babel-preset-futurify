@@ -1,0 +1,36 @@
+{
+  "name": "babel-preset-futurify",
+  "version": "1.0.0",
+  "description": "a simple version of the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/babel-preset-futurify.git"
+  },
+  "keywords": [
+    "babel",
+    "babel preset",
+    "transpile",
+    "compile",
+    "es2015"
+  ],
+  "author": "sethvincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethvincent/babel-preset-futurify/issues"
+  },
+  "homepage": "https://github.com/sethvincent/babel-preset-futurify#readme",
+  "dependencies": {
+    "babel-plugin-check-es2015-constants": "^6.8.0",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.8.0",
+    "babel-plugin-transform-es2015-block-scoped-functions": "^6.8.0",
+    "babel-plugin-transform-es2015-block-scoping": "^6.18.0",
+    "babel-plugin-transform-es2015-function-name": "^6.9.0",
+    "babel-plugin-transform-es2015-literals": "^6.8.0",
+    "babel-plugin-transform-es2015-shorthand-properties": "^6.18.0",
+    "babel-plugin-transform-es2015-template-literals": "^6.8.0"
+  }
+}
