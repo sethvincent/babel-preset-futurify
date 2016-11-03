@@ -8,7 +8,6 @@ A simple version of the future.
 
 [npm-image]: https://img.shields.io/npm/v/babel-preset-futurify.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/babel-preset-futurify
- https://travis-ci.org/sethvincent/babel-preset-futurify
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: http://npm.im/standard
 [conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
